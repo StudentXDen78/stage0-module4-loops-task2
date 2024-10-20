@@ -8,6 +8,6 @@ public class WordsBuilder {
             phrase.append(chars[i]);
             i++;
         }
-        System.out.println(phrase);
+        System.out.print(phrase);
     }
 }
